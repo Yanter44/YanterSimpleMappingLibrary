@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SimpleLibraryTestTwo\obj\Debug\SimpleLibraryTestTwo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SimpleLibraryTestTwo\obj\Debug\SimpleLibraryTestTwo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SimpleLibraryTestTwo\bin\Debug\SimpleLibraryTestTwo.dll
+C:\Users\user\source\repos\SimpleLibraryTestTwo\bin\Debug\SimpleLibraryTestTwo.pdb
+C:\Users\user\source\repos\SimpleLibraryTestTwo\obj\Debug\SimpleLibraryTestTwo.dll
+C:\Users\user\source\repos\SimpleLibraryTestTwo\obj\Debug\SimpleLibraryTestTwo.pdb
+C:\Users\user\source\repos\SimpleLibraryTestTwo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\SimpleLibraryTestTwo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\SimpleLibraryTestTwo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\SimpleLibraryTestTwo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\SimpleLibraryTestTwo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\source\repos\SimpleLibraryTestTwo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\source\repos\SimpleLibraryTestTwo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\SimpleLibraryTestTwo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\source\repos\SimpleLibraryTestTwo\obj\Debug\SimpleLibraryTestTwo.csproj.CopyComplete
